@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<bookstore>
-    <book>
-    <title>El barco verde</title>
-    <publisher>Marc Fernandez</publisher>
-    <cover>Rojo</cover>
-    <price currency="€">30</price>
-    </book>
-</bookstore>
