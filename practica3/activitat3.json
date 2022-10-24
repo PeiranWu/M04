@@ -1,0 +1,10 @@
+{
+    "bookstore":{
+        "book":{
+            "title":"sances",
+            "publisher":"hola",
+            "cover":"adios",
+            "price":"53€"
+        }
+    }   
+}
